@@ -12,9 +12,6 @@ Projeto desenvolvido como desafio durante o curso de desenvolvimento iOS da Udem
 Este é um repositório público de um aplicativo onde exibe diversas noticias, foi utilizada a API da Globo para o desenvolvimento do mesmo 
 
 
-<p align="center">
-<img src= ![myNews](https://user-images.githubusercontent.com/109098776/200301135-471cb741-c399-4019-84fb-5d4004fd7139.png" width="300" height="649" />
-</p>
 
 ## Requerimentos
 
