@@ -13,7 +13,7 @@ Este é um repositório público de um aplicativo onde exibe diversas noticias, 
 
 
 <p align="center">
-<img src= https://user-images.githubusercontent.com/109098776/200300713-55d90ff1-6512-4ff6-8265-519f8286ceb7.jpg" width="300" height="649" />
+<img src= ![myNews](https://user-images.githubusercontent.com/109098776/200301135-471cb741-c399-4019-84fb-5d4004fd7139.png" width="300" height="649" />
 </p>
 
 ## Requerimentos
